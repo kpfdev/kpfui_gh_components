@@ -1,9 +1,9 @@
 # kpfui_gh_components
 
-# Functions/Applications:
-1. Obstructed View
+# Applications:
+1. Unobstructed View
 
-# Components:
+# Projects and Components:
 View Analysis
   VectorBunchComponent
   ViewRayObstructionComponent
